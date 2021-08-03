@@ -63,4 +63,4 @@ Hello hoge !!
 
 ## 参考
 
-- [](https://www.it-swarm-ja.com/ja/docker-compose/dockercomposeyml%E3%81%A7entrypoint%E3%81%AB%E5%BC%95%E6%95%B0%E3%82%92%E6%B8%A1%E3%81%99%E6%96%B9%E6%B3%95/826203749/)
+- [docker-compose.ymlでentrypointに引数を渡す方法:it-swarm-ja.com](https://www.it-swarm-ja.com/ja/docker-compose/dockercomposeyml%E3%81%A7entrypoint%E3%81%AB%E5%BC%95%E6%95%B0%E3%82%92%E6%B8%A1%E3%81%99%E6%96%B9%E6%B3%95/826203749/)
